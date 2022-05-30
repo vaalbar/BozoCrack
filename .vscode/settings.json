@@ -1,0 +1,7 @@
+{
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "files.autoSave": "onWindowChange",
+    "git.alwaysSignOff": true
+}
