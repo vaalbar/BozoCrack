@@ -76,5 +76,6 @@ end
 if ARGV.size == 1
   BozoCrack.new(ARGV[0]).crack
 else
-  puts "Usage example: ruby bozocrack.rb file_with_md5_hashes.txt"
+  puts "C:\Users\zipfiler\Documents\GitHub\BozoCrack\result.txt"
+
 end
