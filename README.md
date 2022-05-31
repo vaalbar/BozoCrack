@@ -7,7 +7,7 @@ It works way better than it ever should.
 ## How?
 Basic usage:
 
-    $ ruby bozocrack.rb my_md5_hashes.txt
+    $ ruby bozocrack.rb my_md5_hashes.txt                                                                                                                                                                               
 
 The input file has no specified format. BozoCrack automatically picks up strings that look like MD5 hashes. A single line shouldn't contain more than one hash.
 
